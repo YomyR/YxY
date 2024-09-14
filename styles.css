@@ -1,0 +1,60 @@
+html, body {
+    margin: 0 auto;
+    font-size: 13px;
+    width: 100%
+
+}
+
+body {
+    background-color: beige;
+}
+
+header {
+    height: 50px;
+    background-color: lightcyan;
+    border-bottom: 2px solid black;
+    padding: 15px;
+    font-family:monospace;
+    font-size: 14px;
+}
+
+header .date {
+    display: flex;
+    justify-content:center;
+    margin: 0 auto;
+}
+
+header .YY {
+    display: flex;
+    justify-content:center;
+}
+
+.introduction h4{
+    text-align: center;
+}
+
+.introduction {
+    padding: 15px;
+}
+
+ul p {
+    text-indent: -23px;
+}
+ul li {
+    list-style:circle;
+    padding: 1px;
+    font-size: 12px;
+}
+
+.pictures {
+    padding: 15px;
+}
+
+.pictures h4 {
+    font-weight:lighter;
+}
+
+.i-love-you {
+    text-align: center;
+    font-size:x-small;
+}
